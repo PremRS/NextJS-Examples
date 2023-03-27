@@ -1,4 +1,7 @@
 # NextJS-Examples
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 This repository contains basic tutorial of NextJS features with appropriate examples. 
 
 These examples are from course curated by Maximilian Schwarzmüller. <br/>
@@ -6,9 +9,7 @@ Please do checkout his course in Udemy and Code Examples in GitHub.
 
 Course - [NextJS Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 
-Repo - [NextJS Sample Repositories](https://github.com/mschwarzmueller/nextjs-course-code/tree/main)
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Code Samples - [NextJS Sample Repositories](https://github.com/mschwarzmueller/nextjs-course-code/tree/main)
 
 ## Getting Started
 
